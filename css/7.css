@@ -1,0 +1,320 @@
+.Contact__1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 78;
+}
+.Title {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 77;
+}
+.Contacts {
+  font-size: 42px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.238;
+  text-align: left;
+  position: absolute;
+  left: 912px;
+  top: 5367.096px;
+  z-index: 76;
+}
+.Contacts {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 74;
+}
+.Mail {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 73;
+}
+.Mail_Icon {
+  border-radius: -3px;
+  background-color: rgb( 20, 20, 20 );
+  opacity: 0.702;
+  position: absolute;
+  left: 916px;
+  top: 5658px;
+  width: 25px;
+  height: 20px;
+  z-index: 72;
+}
+.youname_mail_com {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.625;
+  text-align: left;
+  position: absolute;
+  left: 952.328px;
+  top: 5683.703px;
+  z-index: 71;
+}
+.Phone {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 69;
+}
+.Phone_Icon {
+  background-color: rgb( 20, 20, 20 );
+  opacity: 0.702;
+  position: absolute;
+  left: 915px;
+  top: 5603px;
+  width: 26px;
+  height: 26px;
+  z-index: 68;
+}
+._755__564_84_12 {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.625;
+  text-align: left;
+  position: absolute;
+  left: 953px;
+  top: 5628.703px;
+  z-index: 67;
+}
+.Map {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 65;
+}
+.Map_Icon {
+  background-color: rgb( 20, 20, 20 );
+  opacity: 0.702;
+  position: absolute;
+  left: 917px;
+  top: 5528px;
+  width: 20px;
+  height: 27px;
+  z-index: 64;
+}
+._360_King_Street_Feastrvale_Trevose__PA_19057__ {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.625;
+  text-align: left;
+  position: absolute;
+  left: 955px;
+  top: 5551.703px;
+  width: 223px;
+  height: 40px;
+  z-index: 63;
+}
+.Form {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 60;
+}
+.Fell_free_to_Write_Us {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: center;
+  position: absolute;
+  left: 367.209px;
+  top: 5313.703px;
+  width: 233px;
+  height: 12px;
+  z-index: 59;
+}
+.Input_Field___E_mail {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 58;
+}
+.E_mail {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.502 );
+  line-height: 1.857;
+  text-align: left;
+  position: absolute;
+  left: 388px;
+  top: 5387.365px;
+  z-index: 57;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb( 38, 35, 33 );
+  border-style: solid;
+  border-radius: 2px;
+  opacity: 0.2;
+  position: absolute;
+  left: 366px;
+  top: 5343px;
+  width: 368px;
+  height: 48px;
+  z-index: 56;
+}
+.Input_Field___Subject {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 54;
+}
+.Subject {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.502 );
+  line-height: 1.857;
+  text-align: left;
+  position: absolute;
+  left: 386px;
+  top: 5467.365px;
+  z-index: 53;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb( 38, 35, 33 );
+  border-style: solid;
+  border-radius: 2px;
+  opacity: 0.2;
+  position: absolute;
+  left: 366px;
+  top: 5423px;
+  width: 368px;
+  height: 48px;
+  z-index: 52;
+}
+.Input_Field___Message {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 50;
+}
+.Message {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.502 );
+  line-height: 1.857;
+  text-align: left;
+  position: absolute;
+  left: 388px;
+  top: 5547.365px;
+  z-index: 49;
+}
+.Input_Field {
+  border-width: 1px;
+  border-color: rgb( 38, 35, 33 );
+  border-style: solid;
+  border-radius: 2px;
+  opacity: 0.2;
+  position: absolute;
+  left: 366px;
+  top: 5503px;
+  width: 368px;
+  height: 142px;
+  z-index: 48;
+}
+.Button {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 46;
+}
+.Send {
+  font-size: 12px;
+  font-family: "Montserrat";
+  color: rgb( 255, 255, 255 );
+  text-transform: uppercase;
+  text-align: center;
+  position: absolute;
+  left: 527px;
+  top: 5697.027px;
+  z-index: 45;
+}
+.Button {
+  border-radius: 2px;
+  background-color: rgb( 20, 20, 20 );
+  position: absolute;
+  left: 365px;
+  top: 5677px;
+  width: 371px;
+  height: 51px;
+  z-index: 44;
+}
+.Placeholder {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 42;
+}
+.Placeholder {
+  border-width: 1px;
+  border-color: rgb( 20, 20, 20 );
+  border-style: solid;
+  border-radius: 10px;
+  opacity: 0.102;
+  position: absolute;
+  left: 315px;
+  top: 5233px;
+  width: 469px;
+  height: 558px;
+  z-index: 41;
+}
+.Background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 38;
+}
+.Divider {
+  background-color: rgb( 20, 20, 20 );
+  opacity: 0.102;
+  position: absolute;
+  left: 0px;
+  top: 5863px;
+  width: 1600px;
+  height: 2px;
+  z-index: 37;
+}
+.Background {
+  background-color: rgb( 255, 255, 255 );
+  position: absolute;
+  left: 0px;
+  top: 5162px;
+  width: 1600px;
+  height: 702px;
+  z-index: 36;
+}

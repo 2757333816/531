@@ -1,0 +1,297 @@
+.Team__4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 126;
+}
+.Title {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 125;
+}
+.Our_Awesome_Crew {
+  font-size: 42px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.238;
+  text-align: center;
+  position: absolute;
+  left: 602px;
+  top: 4224.096px;
+  z-index: 124;
+}
+.Our_unique_online_teaching_style_makes_learning {
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.702 );
+  line-height: 1.556;
+  text-align: center;
+  position: absolute;
+  left: 438.97px;
+  top: 4269.041px;
+  width: 695px;
+  height: 46px;
+  z-index: 123;
+}
+.Team {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 121;
+}
+.Userpic_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 120;
+}
+.Hand_Icon {
+  background-image: url("images/Hand Icon.png");
+  position: absolute;
+  left: 688px;
+  top: 4552px;
+  width: 18px;
+  height: 21px;
+  z-index: 119;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 118;
+}
+.Ethan_Dutton {
+  font-size: 20px;
+  font-family: "Montserrat";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.6;
+  text-align: center;
+  position: absolute;
+  left: 486px;
+  top: 4490.379px;
+  z-index: 117;
+}
+.Senior_Visual_Designer {
+  font-size: 12px;
+  font-family: "Montserrat";
+  color: rgba( 255, 255, 255, 0.4 );
+  text-transform: uppercase;
+  line-height: 2.333;
+  text-align: center;
+  position: absolute;
+  left: 457px;
+  top: 4525.027px;
+  z-index: 116;
+}
+.Social_Buttons {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 114;
+}
+.Facebook {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 113;
+}
+.Facebook_Icon {
+  background-color: rgb( 255, 255, 255 );
+  position: absolute;
+  left: 463px;
+  top: 4563px;
+  width: 9px;
+  height: 19px;
+  z-index: 112;
+}
+.Circle {
+  border-width: 1px;
+  border-color: rgb( 255, 255, 255 );
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0.2;
+  position: absolute;
+  left: 443px;
+  top: 4546px;
+  width: 50px;
+  height: 52px;
+  z-index: 111;
+}
+.Twitter {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 109;
+}
+.Twitter_Icon {
+  background-color: rgb( 255, 255, 255 );
+  position: absolute;
+  left: 542px;
+  top: 4566px;
+  width: 20px;
+  height: 16px;
+  z-index: 108;
+}
+.Circle {
+  border-width: 1px;
+  border-color: rgb( 255, 255, 255 );
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0.2;
+  position: absolute;
+  left: 525px;
+  top: 4546px;
+  width: 49px;
+  height: 52px;
+  z-index: 107;
+}
+.Instagram {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 105;
+}
+.Instagram_Icon {
+  border-radius: -2px;
+  background-color: rgb( 255, 255, 255 );
+  position: absolute;
+  left: 621px;
+  top: 4563px;
+  width: 21px;
+  height: 22px;
+  z-index: 104;
+}
+.Circle {
+  border-width: 1px;
+  border-color: rgb( 255, 255, 255 );
+  border-style: solid;
+  border-radius: 50%;
+  opacity: 0.2;
+  position: absolute;
+  left: 606px;
+  top: 4547px;
+  width: 49px;
+  height: 52px;
+  z-index: 103;
+}
+.Background_拷贝 {
+  border-radius: 2px;
+  background-color: rgb( 20, 20, 20 );
+  opacity: 0.651;
+  position: absolute;
+  left: 314px;
+  top: 4352px;
+  width: 472px;
+  height: 341px;
+  z-index: 100;
+}
+.Background {
+  border-radius: 2px;
+  background-color: rgb( 20, 20, 20 );
+  position: absolute;
+  left: 314px;
+  top: 4352px;
+  width: 472px;
+  height: 341px;
+  z-index: 98;
+}
+.Userpic_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 96;
+}
+.Background {
+  border-radius: 2px;
+  background-color: rgb( 20, 20, 20 );
+  position: absolute;
+  left: 814px;
+  top: 4352px;
+  width: 472px;
+  height: 341px;
+  z-index: 94;
+}
+.Userpic_3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 92;
+}
+.Background {
+  border-radius: 2px;
+  background-color: rgb( 20, 20, 20 );
+  position: absolute;
+  left: 314px;
+  top: 4721px;
+  width: 472px;
+  height: 342px;
+  z-index: 90;
+}
+.Userpic_4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 88;
+}
+.Background {
+  border-radius: 2px;
+  background-color: rgb( 20, 20, 20 );
+  position: absolute;
+  left: 814px;
+  top: 4721px;
+  width: 472px;
+  height: 342px;
+  z-index: 86;
+}
+.Background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 6274px;
+  z-index: 83;
+}
+.Divider {
+  background-color: rgb( 20, 20, 20 );
+  opacity: 0.102;
+  position: absolute;
+  left: 0px;
+  top: 5161px;
+  width: 1600px;
+  height: 2px;
+  z-index: 82;
+}
+.Background {
+  background-color: rgb( 255, 255, 255 );
+  position: absolute;
+  left: 0px;
+  top: 4078px;
+  width: 1600px;
+  height: 1085px;
+  z-index: 81;
+}
