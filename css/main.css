@@ -24,13 +24,14 @@
 .sign {
   border: 1px solid #ddd;
   margin-left: 25%;
+  height: 200px;
   width: 50%;
   text-align: center;
 }
 .sign .create {
   font-size: 16px;
   font-family: "Montserrat";
-  color: rgb( 255, 255, 255 );
+  color: rgba( 255, 255, 255, 0.302);
   text-transform: uppercase;
   line-height: 1.75;
 }
@@ -40,6 +41,16 @@
   color: rgba( 255, 255, 255, 0.302 );
   text-transform: uppercase;
 }
+.form-login {
+  display: flex;
+  justify-content: center;
+}
+.form-login input{
+  width: 33%;
+  height: 50px;
+  padding-left: 20px;
+}
+
 .sign .input1 {
   border-width: 1px;
   border-color: rgb( 255, 255, 255 );
@@ -48,6 +59,7 @@
   color: #fff;
   border-style: solid;
   border-radius: 2px;
+  margin-right: 10px;
 }
 .sign .input2 {
   border-width: 1px;
@@ -56,6 +68,7 @@
   border-color: rgb( 255, 255, 255 );
   border-style: solid;
   border-radius: 2px;
+  margin-right: 10px;
   opacity: 0.2;
 }
 .sign .sign-up {
@@ -77,9 +90,32 @@
 .title1 {
   margin-bottom: 40px;
 }
+.title1 .boatloads {
+  font-size: 42px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.238;
+  text-align: center;
+}
+.title1 .ready{
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.702 );
+  line-height: 1.556;
+  text-align: center;
+}
+.features {
+  display: flex;
+  /* flex-direction: column;
+  justify-content: center;
+  text-align: center; */
+  flex-direction: row;
+  justify-content: space-between;
+}
 .features ul li{
   float: left;
-  width: 50%;
+  width: 30%;
+  margin-left: 250px;
   list-style: none;
   text-align: center;
 }
@@ -94,19 +130,33 @@
 
 
 .call-to-action {
-  height: 700px;
+  height: 798px;
   background-image: url("../images/hello_28.png");
   justify-content: center;
 }
 .call-to-action .text {
   width: 30%;
-  padding: 20% 20%;
+  padding: 10% 20%;
   /* flex-wrap: wrap; */
   flex-direction: column;
   justify-content: left;
   text-align: left;
 }
-.button1{
+.call-to-action .supportive{
+  font-size: 42px;
+  font-family: "Montserrat";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.238;
+}
+.call-to-action .china-will{
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgba( 255, 255, 255, 0.702 );
+  line-height: 1.556;
+}
+.call-to-action .button1{
+  width: 230px;
+  height: 60px;
   border-width: 1px;
   border-color: rgb( 255, 255, 255 );
   border-style: solid;
@@ -117,6 +167,8 @@
   text-transform: uppercase;
 }
 .button2{
+  width: 230px;
+  height: 60px;
   border-width: 1px;
   border-color: rgb( 255, 255, 255 );
   background: transparent;
@@ -138,6 +190,42 @@
   height: 500px;
 }
 .feature-9 .try {
+  font-size: 42px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.238;
+  text-align: center;
+}
+.feature-9 .logos {
+  margin-left: 15%;
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+}
+.feature-9 .logo-1 ul li{
+  padding-right: 50px;
+}
+.feature-9 .logo-1 span {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.702 );
+  line-height: 1.625;
+  text-align: center;
+}
+.feature-9 .logo-2 span {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.702 );
+  line-height: 1.625;
+  text-align: center;
+}
+.feature-9 .logo-3 span {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.702 );
+  line-height: 1.625;
   text-align: center;
 }
 .feature-9 ul li{
@@ -145,22 +233,63 @@
   width: 33%;
   list-style: none;
 }
+.feature-9 ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+}
+
 
 .feature-14 {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
 }
 .feature-14 .feature-1{
-  flex: 1;
-  align-self: flex-start;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.feature-14 .text1 {
+  margin-left: 30px;
+}
+.feature-14 .text1 p{
+  font-size: 20px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.6;
   text-align: left;
-  /* flex-direction: row; */
-  flex-wrap: wrap;
+}
+.feature-14 .text1 span {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.702 );
+  line-height: 1.75;
+  text-align: left;
+}
+.feature-14 .text2 {
+  margin-right: 30px;
+}
+.feature-14 .text2 p{
+  font-size: 20px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.6;
+  text-align: left;
+}
+.feature-14 .text2 span {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.702 );
+  line-height: 1.75;
+  text-align: left;
 }
 .feature-14 .feature-2{
-  /* flex-direction: row;
-  flex-wrap: wrap; */
-  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
 }
 
 
@@ -174,23 +303,138 @@
   justify-content: center;
   text-align: center;
 }
-.team-4 ul li {
-  float: left;
-  width: 50%;
+.team-4 .our-awesome {
+  font-size: 42px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.238;
+}
+.team-4 .our-unique {
+  font-size: 18px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.702 );
+  line-height: 1.556;
+}
+/* .team-4 .team {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+.team-4 ul {
+  display: flex;
+  flex-wrap: wrap-reverse;
   list-style: none;
+  justify-content: center;
+} */
+.team-4 .team {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+.team-4 ul {
+  display: flex;
+  flex-flow: row wrap;
+  list-style: none;
+  justify-content: center;
+  /* margin: 20px 0; */
+}
+.team-4 li {
+  width: 45%;
+  margin: 10px 0;
+  /* margin: 0 10px; */
+  /* flex-basis: 50%; */
 }
 
 
 .contact-1 {
   display: flex;
-  justify-self: space-between;
+  flex-direction: row;
+  justify-content: center;
+  height: 400px;
+}
+.contact-1 .form {
+  display: flex;
+  justify-content: center;
+  border: 1px solid #ddd;
+  width: 400px;
+  /* width: 50%; */
+  margin-right: 200px;
+}
+.contact-1 .form input {
+  width: 250px;
+  height: 40px;
+  margin-bottom: 20px;
+  border-width: 1px;
+  border-color: rgb( 38, 35, 33 );
+  border-style: solid;
+  border-radius: 2px;
+  opacity: 0.2;
+}
+.contact-1 .form span {
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: center;
+}
+.contact-1 .form .send {
+  width: 250px;
+  height: 40px;
+  font-size: 12px;
+  background-color: rgb( 20, 20, 20 );
+  font-family: "Montserrat";
+  color: rgb( 255, 255, 255 );
+  text-transform: uppercase;
+  text-align: center;
+}
+.contact-1 .form .email {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgba( 20, 20, 20, 0.502 );
+  line-height: 1.857;
+  text-align: left;
+}
+.contact-1 ul {
+  padding: 0;
 }
 .contact-1 ul li {
   list-style: none;
+  margin-bottom: 20px;
 }
 
-.footer ul li{
-  float: left;
+.contacts-1 .contacts {
+  font-size: 42px;
+  font-family: "Montserrat";
+  color: rgb( 20, 20, 20 );
+  line-height: 1.238;
+  text-align: left;
+}
+
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb( 20, 20, 20 );
+  margin-top: 10px;
+}
+.footer ul li:first-child {
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: rgb( 255, 255, 255 );
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: left;
+}
+.footer ul li {
   list-style: none;
+  font-size: 16px;
+  font-family: "Montserrat";
+  color: rgba( 255, 255, 255, 0.302 );
+  line-height: 2.875;
+  text-align: left;
+}
+.footer ul{
   width: 25%;
 }
