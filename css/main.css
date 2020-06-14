@@ -6,6 +6,7 @@
   width: 100%;
   height: 600px;
   background-image: url("../images/hello_02.png");
+  background-size: cover;
 }
 .hello {
   font-size: 62px;
@@ -23,6 +24,7 @@
 }
 .sign {
   border: 1px solid #ddd;
+  border-radius: 10px;
   margin-left: 25%;
   height: 200px;
   width: 50%;
@@ -53,7 +55,7 @@
 
 .sign .input1 {
   border-width: 1px;
-  border-color: rgb( 255, 255, 255 );
+  /* border-color: rgb( 255, 255, 255 ); */
   background: transparent;
   -webkit-text-fill-color: white;
   color: #fff;
@@ -81,7 +83,7 @@
 
 
 .feature {
-  height: 400px;
+  height: 600px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -133,6 +135,7 @@
   height: 798px;
   background-image: url("../images/hello_28.png");
   justify-content: center;
+  background-size: cover;
 }
 .call-to-action .text {
   width: 30%;
@@ -165,6 +168,8 @@
   font-family: "Montserrat";
   color: rgb( 20, 20, 20 );
   text-transform: uppercase;
+  outline: none;
+  margin-right: 20px;
 }
 .button2{
   width: 230px;
@@ -180,6 +185,7 @@
   color: rgb( 255, 255, 255 );
   text-transform: uppercase;
   text-align: center;
+  outline: none;
 }
 
 
@@ -336,11 +342,12 @@
   flex-flow: row wrap;
   list-style: none;
   justify-content: center;
-  /* margin: 20px 0; */
+  /* margin: 20px 20px; */
 }
 .team-4 li {
-  width: 45%;
-  margin: 10px 0;
+  /* width: 45%; */
+  margin: 20px 30px;
+  display:block;
   /* margin: 0 10px; */
   /* flex-basis: 50%; */
 }
@@ -351,14 +358,15 @@
   flex-direction: row;
   justify-content: center;
   height: 400px;
+  margin-bottom: 40px;
 }
 .contact-1 .form {
   display: flex;
   justify-content: center;
   border: 1px solid #ddd;
-  width: 400px;
+  width: 475px;
   /* width: 50%; */
-  margin-right: 200px;
+  margin-right: 90px;
 }
 .contact-1 .form input {
   width: 250px;
